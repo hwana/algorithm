@@ -1,10 +1,10 @@
 # [level 0] 암호 해독 - 120892 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120892?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120892) 
 
 ### 성능 요약
 
-메모리: 59.3 MB, 시간: 22.04 ms
+메모리: 60.3 MB, 시간: 0.49 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 15일 21:07:38
+2024년 08월 15일 21:10:39
 
 ### 문제 설명
 
