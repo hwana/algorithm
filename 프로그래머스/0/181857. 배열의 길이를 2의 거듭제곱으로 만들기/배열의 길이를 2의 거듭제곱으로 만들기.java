@@ -8,10 +8,7 @@ class Solution {
         while(arr.length > i){
             i *= 2;
         }
-        
-        int[] answer = new int[i];
-        answer = Arrays.copyOf(arr, i);
-            
-        return answer;
+    
+        return Arrays.copyOf(arr, i);
     }
 }
